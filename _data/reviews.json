@@ -18,5 +18,15 @@
     "rating": null,
     "date": null,
     "notes": null
+  },
+  {
+    "establishment": "Edgewood Prime Thrift",
+    "city": "Edgewood",
+    "state": "MD",
+    "restroom_type": "Men's Restroom",
+    "youtube_url": "https://www.youtube.com/shorts/MKYv7wM6QEc",
+    "rating": null,
+    "date": null,
+    "notes": null
   }
 ]
