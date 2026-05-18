@@ -1,0 +1,36 @@
+---
+layout: default
+title: Restroom Reviews
+---
+
+<h1>Restroom Reviews</h1>
+<p class="subtitle">A directory of restroom reviews</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Establishment</th>
+      <th>Location</th>
+      <th>Type</th>
+      <th>Rating</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for review in site.data.reviews %}
+    <tr>
+      <td>{{ review.establishment }}</td>
+      <td>{{ review.city }}, {{ review.state }}</td>
+      <td>{{ review.restroom_type }}</td>
+      <td>
+        {% if review.rating %}
+          {{ review.rating }}/5
+        {% else %}
+          &mdash;
+        {% endif %}
+      </td>
+      <td><a href="{{ review.youtube_url }}" target="_blank">Watch</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

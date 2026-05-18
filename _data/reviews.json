@@ -1,0 +1,22 @@
+[
+  {
+    "establishment": "Tabitha's House",
+    "city": "Edgewood",
+    "state": "MD",
+    "restroom_type": "Unisex Restroom",
+    "youtube_url": "https://www.youtube.com/shorts/Zd8kAIFEr0U",
+    "rating": null,
+    "date": null,
+    "notes": null
+  },
+  {
+    "establishment": "Grocery Bargain Outlet",
+    "city": "Edgewood",
+    "state": "MD",
+    "restroom_type": "Men's Restroom",
+    "youtube_url": "https://www.youtube.com/shorts/Rpffe4LAEeY",
+    "rating": null,
+    "date": null,
+    "notes": null
+  }
+]
