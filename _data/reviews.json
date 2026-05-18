@@ -5,9 +5,9 @@
     "state": "MD",
     "restroom_type": "Unisex Restroom",
     "youtube_url": "https://www.youtube.com/shorts/Zd8kAIFEr0U",
-    "rating": null,
-    "date": null,
-    "notes": null
+    "rating": 8.0,
+    "date": "2026-05-17",
+    "notes": "Solid, clean, and dependable facility with good privacy, though a single unisex layout means you might have to wait during peak hours."
   },
   {
     "establishment": "Grocery Bargain Outlet",
@@ -15,9 +15,9 @@
     "state": "MD",
     "restroom_type": "Men's Restroom",
     "youtube_url": "https://www.youtube.com/shorts/Rpffe4LAEeY",
-    "rating": null,
-    "date": null,
-    "notes": null
+    "rating": 6.5,
+    "date": "2026-05-16",
+    "notes": "Perfectly average, acceptable public restroom. No bad odor, clean floors, fully functional sink. Gets the job done safely."
   },
   {
     "establishment": "Edgewood Prime Thrift",
@@ -25,8 +25,8 @@
     "state": "MD",
     "restroom_type": "Men's Restroom",
     "youtube_url": "https://www.youtube.com/shorts/MKYv7wM6QEc",
-    "rating": null,
-    "date": null,
-    "notes": null
+    "rating": 2.5,
+    "date": "2026-05-16",
+    "notes": "Kinda clean. Privacy is passable if you really need to use the stall. Heard fans but can't confirm airflow."
   }
 ]
