@@ -57,5 +57,20 @@
         "notes": "Solid, eco-friendly setup with great cleanliness, though the single-occupancy wait times can be a test of patience."
       }
     ]
+  },
+  {
+    "establishment": "Petco",
+    "city": "White Marsh",
+    "state": "MD",
+    "osm_id": 4765414102,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://www.youtube.com/shorts/NxHSgDnWI3E",
+        "rating": 8.5,
+        "date": "2026-05-19",
+        "notes": "Solid, reliable, and surprisingly clean sanctuary, though you might hear a few distant barks while doing your business."
+      }
+    ]
   }
 ]
