@@ -42,5 +42,20 @@
         "notes": "Kinda clean. Privacy is passable if you really need to use the stall. Heard fans but can't confirm airflow."
       }
     ]
+  },
+  {
+    "establishment": "Mom's Organic Market",
+    "city": "White Marsh",
+    "state": "MD",
+    "osm_id": 4765414101,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://www.youtube.com/shorts/9jF5cRO6AKA",
+        "rating": 8.0,
+        "date": "2026-05-18",
+        "notes": "Solid, eco-friendly setup with great cleanliness, though the single-occupancy wait times can be a test of patience."
+      }
+    ]
   }
 ]
