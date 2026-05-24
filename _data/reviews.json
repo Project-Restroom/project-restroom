@@ -72,5 +72,65 @@
         "notes": "Solid, reliable, and surprisingly clean sanctuary, though you might hear a few distant barks while doing your business."
       }
     ]
+  },
+  {
+    "establishment": "Target",
+    "city": "White Marsh",
+    "state": "MD",
+    "osm_id": 51186372,
+    "reviews": [
+      {
+        "restroom_type": "Men's Room",
+        "youtube_url": "https://youtube.com/shorts/O1OCnnIRPbM",
+        "rating": 6.0,
+        "date": "2026-05-20",
+        "notes": "Functional and structurally sound, but clearly battles high foot traffic."
+      }
+    ]
+  },
+  {
+    "establishment": "Safeway",
+    "city": "Perry Hall",
+    "state": "MD",
+    "osm_id": 298527778,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://youtube.com/shorts/QWk3t2GZ4XY",
+        "rating": 6.5,
+        "date": "2026-05-21",
+        "notes": "Decent structural privacy and functional amenities, but suffers from average grocery store cleanliness standards and a slightly depressing lighting situation."
+      }
+    ]
+  },
+  {
+    "establishment": "Akira Ramen",
+    "city": "Bel Air",
+    "state": "MD",
+    "osm_id": 11412810355,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://youtube.com/shorts/_Is37tLf7-Q",
+        "rating": 7.0,
+        "date": "2026-05-22",
+        "notes": "A respectable, functional facility. Respectably clean and gets the job done, but lacks the elite design or luxury amenities to push it into the upper tier."
+      }
+    ]
+  },
+  {
+    "establishment": "Lazy Boy",
+    "city": "Bel Air",
+    "state": "MD",
+    "osm_id": 6513878015,
+    "reviews": [
+      {
+        "restroom_type": "Men's Room",
+        "youtube_url": "https://youtube.com/shorts/uR8E4RjWSz0",
+        "rating": 8.0,
+        "date": "2026-05-23",
+        "notes": "Solid, reliable comfort with great privacy, though it lacks that high-end luxury lounge flair."
+      }
+    ]
   }
 ]
