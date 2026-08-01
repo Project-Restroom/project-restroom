@@ -132,5 +132,153 @@
         "notes": "Solid, reliable comfort with great privacy, though it lacks that high-end luxury lounge flair."
       }
     ]
+  },
+  {
+    "establishment": "Staples",
+    "city": "Bel Air",
+    "state": "MD",
+    "osm_id": 4134812389,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://youtube.com/shorts/qQVEZL1vU1Q",
+        "rating": 2.5,
+        "date": "2026-05-24",
+        "notes": "Not much you want to touch in the restroom. Stagnant air - you may want to hold your breath."
+      }
+    ]
+  },
+  {
+    "establishment": "Yu Noodles",
+    "city": "Govans",
+    "state": "MD",
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://youtube.com/shorts/obpG7-w5ZZQ",
+        "rating": 8.5,
+        "date": "2026-05-25",
+        "notes": "Pretty clean, working lock on the door, and fresh clean air."
+      }
+    ]
+  },
+  {
+    "establishment": "Weis Market",
+    "city": "Towson",
+    "state": "MD",
+    "osm_id": 2112320616,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://youtube.com/shorts/a5ptMQGqjj0",
+        "rating": 7.5,
+        "date": "2026-05-26",
+        "notes": "Generally tidy but standard grocery store vibe. Standard commercial stalls, and no bad smells."
+      }
+    ]
+  },
+  {
+    "establishment": "Safeway",
+    "city": "Beverly Hills",
+    "state": "MD",
+    "osm_id": 9117976198,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://youtube.com/shorts/_hXloAtNg4Y",
+        "rating": 6.5,
+        "date": "2026-05-27",
+        "notes": "Floor is clean but walls need a little love. Standard grocery store stalls, ventilation functional."
+      }
+    ]
+  },
+  {
+    "establishment": "Micro Center",
+    "city": "Parkville",
+    "state": "MD",
+    "osm_id": 2223526228,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom (Partial)",
+        "youtube_url": "https://youtube.com/shorts/IK-azFD0yKo",
+        "rating": 6.5,
+        "date": "2026-05-28",
+        "notes": "Passable but feels heavily trafficked. Standard commercial stalls. Tech-warehouse vibes but the air is fresh."
+      }
+    ]
+  },
+  {
+    "establishment": "Harvest Fare Market",
+    "city": "Belair",
+    "state": "MD",
+    "osm_id": 135181623,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://youtube.com/shorts/2mEIftI6Q9M",
+        "rating": 3.5,
+        "date": "2026-05-31",
+        "notes": "Proceed with extreme caution - strictly an emergency-only stopover. Neglected surfaces, strong custodial odors, stale air."
+      }
+    ]
+  },
+  {
+    "establishment": "Sprouts Market",
+    "city": "Towson",
+    "state": "MD",
+    "osm_id": 398700992,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://youtube.com/shorts/vx8njqZYLu8",
+        "rating": 7.0,
+        "date": "2026-05-31",
+        "notes": "Solid, respectable facilities that get the job done, though it lacks the premium flair of a true sanctuary. Well-maintained, clean floors and counters, fully stocked soap and towels."
+      }
+    ]
+  },
+  {
+    "establishment": "Parkville Laundromat",
+    "city": "Parkville",
+    "state": "MD",
+    "osm_id": 3025612655,
+    "reviews": [
+      {
+        "restroom_type": "Unisex Restroom",
+        "youtube_url": "https://youtube.com/shorts/x6ax98iuVSY",
+        "rating": 5.5,
+        "date": "2026-06-01",
+        "notes": "Utilitarian and functional, but aggressively average. Gets the job done in a pinch, but don't expect a luxury experience."
+      }
+    ]
+  },
+  {
+    "establishment": "Whole Foods Market",
+    "city": "Towson",
+    "state": "MD",
+    "osm_id": 9421407105,
+    "reviews": [
+      {
+        "restroom_type": "Men's Restroom",
+        "youtube_url": "https://youtube.com/shorts/C-WcNHmczu4",
+        "rating": 6.0,
+        "date": "2026-06-02",
+        "notes": "Average grocery store standards - highly functional and passes the baseline test, but won't be winning any luxury design awards."
+      }
+    ]
+  },
+  {
+    "establishment": "Redner's Warehouse Markets",
+    "city": "Dundalk",
+    "state": "MD",
+    "reviews": [
+      {
+        "restroom_type": "Unisex Restroom",
+        "youtube_url": "https://youtube.com/shorts/YKs0vB8DhuA",
+        "rating": 6.5,
+        "date": "2026-06-03",
+        "notes": "Average grocery store standards with a hidden ceiling mystery. Freshly wiped down but stubborn grime in corners, and do NOT look up at the ceiling tiles."
+      }
+    ]
   }
 ]
